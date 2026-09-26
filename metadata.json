@@ -1,0 +1,6 @@
+{
+  "name": "OmniMotion AI - Free Unlimited Image to Video Studio",
+  "description": "Unlimited free Image-to-Video generation studio featuring all top AI models: Veo 3.1, Sora Turbo, Kling 2.0, Runway Gen-3, Luma Dream Machine, Pika 2.0, and Wan 2.1 with full camera controls, motion brush, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
